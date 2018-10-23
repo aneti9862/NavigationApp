@@ -1,0 +1,16 @@
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.deps.json
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.pdb
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csprojResolveAssemblyReference.cache
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/Views/BasePage.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/Views/MasterDetailPage1.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/Views/ViewA.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/Views/ViewB.xaml.g.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfoInputs.cache
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfo.cs
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.dll
+/Users/anetakalamaszek/Downloads/XamarinForms-master/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.pdb
